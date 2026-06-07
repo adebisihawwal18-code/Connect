@@ -1,2 +1,2 @@
-# Connect
-Connect — a hyperlocal social platform to discover people, businesses, and estate agents in your area.
+
+StudyVault — your all-in-one academic toolkit for managing tasks, tracking progress, and staying secure with a built-in password generator.
